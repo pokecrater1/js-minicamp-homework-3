@@ -1,0 +1,7 @@
+Feynman Writing Prompts
+Objects - something that can hold info and methods
+properties - like the denotation for property, can invoke methods
+methods - a set of action(s) an object can perform
+for in loop: like a for-each loop in java, go in an object and iterate over its properties
+dot notation is used for defined properties, bracket is for abstract(possibly non-existent properties)
+so it may have to be created using a variable.
